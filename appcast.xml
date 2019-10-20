@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>KeyCastr</title>
+        <item>
+            <title>0.9.7</title>
+            <pubDate>Sat, 19 Oct 2019 19:27:05 -0700</pubDate>
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <enclosure url="https://keycastr.github.io/KeyCastr.app.zip" sparkle:version="1" sparkle:shortVersionString="0.9.7" length="2349226" type="application/octet-stream" sparkle:edSignature="R9a52M4VB4qLh22xKbtaP+Xy0na1QzzEHp8imL3RdE4vt/zW1D5qi/jeqX8VMP7W7TWEx8vyYRBrkVFThfUmBw=="/>
+        </item>
+    </channel>
+</rss>
