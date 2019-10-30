@@ -4,9 +4,9 @@
         <title>KeyCastr</title>
         <item>
             <title>0.9.8</title>
-            <pubDate>Sat, 19 Oct 2019 19:27:05 -0700</pubDate>
+            <pubDate>Wed, 30 Oct 2019 15:26:34 -0700</pubDate>
             <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.9.8/KeyCastr.app.zip" sparkle:version="1" sparkle:shortVersionString="0.9.8" length="2365655" type="application/octet-stream" sparkle:edSignature="7GUIxTXoArY2NZH7jb2OGtomDM74gJhTCYe2V1XQwGnivFoLP7+q94lpGTdfoDe5BU1+cEiRxhZmMWkO2dsQDQ=="/>
+            <enclosure url="https://keycastr.github.io/KeyCastr.app.zip" sparkle:version="1" sparkle:shortVersionString="0.9.8" length="2377571" type="application/octet-stream" sparkle:edSignature="TWjy/MM6gBJKCoWWrWc+yD5NOPD9GxqrpoQzJY/2kzN74lHyZ5pRh4U3m+bO2hOM8zO5cdadcN3Q6dMZAVm8Bg=="/>
         </item>
     </channel>
 </rss>
