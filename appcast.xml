@@ -3,10 +3,10 @@
     <channel>
         <title>KeyCastr</title>
         <item>
-            <title>0.9.8</title>
-            <pubDate>Wed, 30 Oct 2019 15:26:34 -0700</pubDate>
+            <title>0.9.9</title>
+            <pubDate>Sat, 02 Jan 2021 13:24:48 -0800</pubDate>
             <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-            <enclosure url="https://keycastr.github.io/KeyCastr.app.zip" sparkle:version="1" sparkle:shortVersionString="0.9.8" length="2377571" type="application/octet-stream" sparkle:edSignature="TWjy/MM6gBJKCoWWrWc+yD5NOPD9GxqrpoQzJY/2kzN74lHyZ5pRh4U3m+bO2hOM8zO5cdadcN3Q6dMZAVm8Bg=="/>
+            <enclosure url="https://keycastr.github.io/KeyCastr.app.zip" sparkle:version="1" sparkle:shortVersionString="0.9.9" length="2722994" type="application/octet-stream" sparkle:edSignature="39Fg7YOwZSqnq1qFiPIhjdIpXglnE40/+NGbOL/yV/HrHmgKq2d/X6YESLbJjfW51wq3mvI2/pLEJuWN5Z2XBA=="/>
         </item>
     </channel>
 </rss>
