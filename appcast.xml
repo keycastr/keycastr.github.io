@@ -6,7 +6,13 @@
             <title>0.9.9</title>
             <pubDate>Sat, 02 Jan 2021 13:24:48 -0800</pubDate>
             <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-            <enclosure url="https://keycastr.github.io/KeyCastr.app.zip" sparkle:version="1" sparkle:shortVersionString="0.9.9" length="2722994" type="application/octet-stream" sparkle:edSignature="39Fg7YOwZSqnq1qFiPIhjdIpXglnE40/+NGbOL/yV/HrHmgKq2d/X6YESLbJjfW51wq3mvI2/pLEJuWN5Z2XBA=="/>
+            <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.9.9/KeyCastr.app.zip" sparkle:version="1" sparkle:shortVersionString="0.9.9" length="2722994" type="application/octet-stream" sparkle:edSignature="39Fg7YOwZSqnq1qFiPIhjdIpXglnE40/+NGbOL/yV/HrHmgKq2d/X6YESLbJjfW51wq3mvI2/pLEJuWN5Z2XBA=="/>
+        </item>
+        <item>
+            <title>0.9.10</title>
+            <pubDate>Sun, 07 Feb 2021 11:52:01 -0800</pubDate>
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.9.10/KeyCastr.app.zip" sparkle:version="1" sparkle:shortVersionString="0.9.10" length="2773259" type="application/octet-stream" sparkle:edSignature="j2xjYITy5a09vnflHfPwxooey0TdN+PNt7dZ1XQWA0bK7ss3HS8LD2jmJOGFjr/jvSnc3GaBEOIXy4C8X3TyBA=="/>
         </item>
     </channel>
 </rss>
