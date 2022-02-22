@@ -20,5 +20,11 @@
             <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.9.11/KeyCastr.app.zip" sparkle:version="0.9.11" sparkle:shortVersionString="0.9.11" length="2794551" type="application/octet-stream" sparkle:edSignature="II+9pYTac8I0uWJ83VtkoISf+wlRHufaLJY1gmbe4Kl/rvR/OPXUT65HEXk5bpEXPnyKBZwg9Il1F4nJ+zsWDg=="/>
         </item>
+        <item>
+          <title>0.9.12</title>
+          <pubDate>Mon, 21 Feb 2022 17:43:30 -0800</pubDate>
+          <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+          <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.9.12/KeyCastr.app.zip" sparkle:version="0.9.12" sparkle:shortVersionString="0.9.12" length="2556718" type="application/octet-stream" sparkle:edSignature="Me+Ouvc91rOTM5ApoYIo/s5QeTwGvp8JWmBGsAhIC07QkDwTB4Qtq1uXO3ZYlBa79FaH+I9WGqJZX2KqQJHgCw=="/>
+        </item>
     </channel>
 </rss>
