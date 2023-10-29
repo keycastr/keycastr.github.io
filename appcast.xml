@@ -34,5 +34,13 @@
             <sparkle:minimumSystemVersion>10.14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.9.13/KeyCastr.app.zip" length="2774360" type="application/octet-stream" sparkle:edSignature="fgCbpIyGGO/+HdA5rvfKzsKIBLLnoZs0ABRXPE84rUD4Rc+TmiQ6/Jb1zTFmAEgx4vAfr92bzO7ptWRD4IryBQ=="/>
         </item>
+        <item>
+            <title>0.9.14</title>
+            <pubDate>Sun, 29 Oct 2023 16:07:42 -0700</pubDate>
+            <sparkle:version>0.9.14</sparkle:version>
+            <sparkle:shortVersionString>0.9.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.9.14/KeyCastr.app.zip" length="2483181" type="application/octet-stream" sparkle:edSignature="AJmvmuKAl3b9c0A6zGUcmEIeDVcoOohiTDIvaUpWESYtHKXci7tWJDqk4reTFl7J4Y+UsfsJ2KDjOMUrS37lDQ=="/>
+        </item>
     </channel>
 </rss>
