@@ -48,7 +48,7 @@
             <sparkle:version>0.9.15</sparkle:version>
             <sparkle:shortVersionString>0.9.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.9.14/KeyCastr.app.zip" length="2482831" type="application/octet-stream" sparkle:edSignature="GGGA0c1hNHNHVkIy/XBF/WUh3EjodhoiPpZSBWjZs7VvLt0Ed7MHk+cmtgPLr4MNVg+KfOMn6tU+zqAs9sTyAw=="/>
+            <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.9.15/KeyCastr.app.zip" length="2482831" type="application/octet-stream" sparkle:edSignature="GGGA0c1hNHNHVkIy/XBF/WUh3EjodhoiPpZSBWjZs7VvLt0Ed7MHk+cmtgPLr4MNVg+KfOMn6tU+zqAs9sTyAw=="/>
         </item>
     </channel>
 </rss>
