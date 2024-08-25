@@ -3,6 +3,14 @@
     <channel>
         <title>KeyCastr</title>
         <item>
+            <title>0.10.0</title>
+            <pubDate>Sun, 25 Aug 2024 10:29:22 -0700</pubDate>
+            <sparkle:version>0.10.0</sparkle:version>
+            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.10.0/KeyCastr.app.zip" length="2475810" type="application/octet-stream" sparkle:edSignature="LBWcZET69S6JV0yKh7OWcUBbPcne6UIiS4s/jwt0MkYxEOmBHOkICdPRwt8/FcJFZ1cgrgyEPg/vGVkVRAzlAA=="/>
+        </item>
+        <item>
             <title>0.9.18</title>
             <pubDate>Sat, 22 Jun 2024 16:17:25 -0700</pubDate>
             <sparkle:version>0.9.18</sparkle:version>
