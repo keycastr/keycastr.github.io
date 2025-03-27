@@ -8,7 +8,7 @@
             <sparkle:version>0.10.3</sparkle:version>
             <sparkle:shortVersionString>0.10.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.10.3/KeyCastr.zip" length="2481267" type="application/octet-stream" sparkle:edSignature="rHd3ToFzuDPJZdwfih+jSbUYvWayqSzXvKHZFTdOR6Vh04pg4ZVI7vnLPvM45d6cyzyVtbFBG3Bh4PTSyg+KAA=="/>
+            <enclosure url="https://github.com/keycastr/keycastr/releases/download/v0.10.3/KeyCastr.app.zip" length="2481267" type="application/octet-stream" sparkle:edSignature="rHd3ToFzuDPJZdwfih+jSbUYvWayqSzXvKHZFTdOR6Vh04pg4ZVI7vnLPvM45d6cyzyVtbFBG3Bh4PTSyg+KAA=="/>
         </item>
         <item>
             <title>0.10.2</title>
